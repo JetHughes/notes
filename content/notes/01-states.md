@@ -1,0 +1,85 @@
+---
+title: "01-states"
+tags: 
+- assignment
+- info305
+---
+Sitting vs Standing
+- show weather briefly
+- show time briefly
+- option to enable do not disturb
+  - maybe this for browsing
+  - actually maybe this on any change of state
+  - this might get annoying though so only a select few significant states
+- voice commands?
+  - ai voice chat
+- Reminders or notifications about upcoming events
+- News headlines or briefs
+- A list of tasks or to-do items
+- calendar/schedule
+- music/audio player
+- pomodoro timer
+- reminders
+	- break
+	- drink water
+	- stretch
+- "deep work" periods with no notifications
+- auto generate suggestions based on
+- look up and down to change view
+	- only show notifications/calendar when head is tilted up
+	- show other things when you look to either side or down
+	- virtual workspace
+	- track hand to move virtual tabs around on screen
+	- this is developing into an OS i should keep it simple
+- instead of sitting vs standing detect working at computer/laptop
+ 
+walking
+- navigation information and directions
+- maps of the area with users location
+- nearby points of interest
+- local weather information
+- directions or maps to nearby places of interest
+- health and fitness stats
+  - step count, calories
+- public transport
+  - closures
+  - delays
+  - nearby
+- recommendations for nearby shops, attractions or entertainment
+  - depends on time of walk. maybe show different stuff on a walk after work vs a walk on the weekend vs during lunch break
+  - if walk during lunch time show nearby food
+- social media updates or messages
+
+running
+- Health and fitness stats, like heart rate or calories burned
+- Music or audio player control
+  - goot motivation
+  - adjust volume skip, play/pause, add to playlist etc
+  - music suggestions
+    - track types of music with running performance to see what music is best
+    - suggest what other users perform well to
+- route information and directions
+  - possible alternative routes
+  - scenic vs quick routes
+  - rough vs smooth terrain
+  - steep vs flat
+  - nearby trails
+  - cool spots along the way to rest maybe
+- distance traveled
+- pace, form
+- Access to a personal trainer or coaching program
+  - training plans
+  - HIIT (high intensity interval training) it annoying to use a phone timer for this
+  - rewards for reaching goals
+- Safety tips or warnings for running outdoors
+- Real-time performance feedback or challenges
+- safety
+  - highlight hazards
+  - bad weather
+  - incidents
+  - if a user is in trouble, they can notify others nearby that they need help
+  - visibility at night
+  - torch built in?
+  - first time show safety tips and guidelines
+  - can provide real time instructions for cpr
+    - counting breaths etc

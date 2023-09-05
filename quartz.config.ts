@@ -3,14 +3,14 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Jet's Notes",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "jethughes.github.io/notes",
+    ignorePatterns: ["private", "templates", ".obsidian", "calendars", "CIP", ".stfolder", ".trash"],
     defaultDateType: "created",
     theme: {
       typography: {

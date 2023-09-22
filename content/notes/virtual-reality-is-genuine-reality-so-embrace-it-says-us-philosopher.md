@@ -18,7 +18,6 @@ david chalmers.
 - potential health issues
 - psychological damage (if we are better looking and have better clothes and a nicer home in the metaverse, [how will we feel when we leave](https://time.com/6128706/frances-haugen-metaverse-facebook/)?)
 - athenticity in interacting in our physical form
-- 
 
 idk it seems "hypey" looking to far in the future
 

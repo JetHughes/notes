@@ -24,4 +24,3 @@ skeleton method:
 
 medical patient training VR
 - good because you can collaborate and be together with colleagues
-- 

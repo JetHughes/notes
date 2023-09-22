@@ -61,7 +61,6 @@ sr-ease: 270
 # In the news
 
 - [Axie hack](https://thehackernews.com/2022/07/hackers-used-fake-job-offer-to-hack-and.html)
-- 
 
 # Why info sec
 - more interconnected

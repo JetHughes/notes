@@ -119,7 +119,6 @@ From search
 
 **Docs**
 - https://iroha.readthedocs.io/en/develop/maintenance/add_peer.html
-- 
 
 **Might Read**
 - https://stakingfac.medium.com/what-is-nominated-proof-of-stake-889fc22bef8f
@@ -146,7 +145,6 @@ From search
 - Polkadot
 - www.kaleido.io
 - holochain
-- 
 
 ## Other Reading
 - https://docs.docker.com/config/containers/container-networking/

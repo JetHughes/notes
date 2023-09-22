@@ -6,5 +6,5 @@ endTime: 12:50
 type: recurring
 daysOfWeek: [M]
 startRecur: 2023-07-31
-endRecur: 2023-11-30
+endRecur: 2023-10-12
 ---

@@ -1,15 +1,35 @@
 ---
-title: "10-heaps-and-heapsort"
-sr-due: 2023-09-30
-sr-interval: 343
-sr-ease: 270
+title: "heap"
 tags: 
 - cosc201 
-- lecture
+- data_structure
 ---
 
-[heapsort](notes/heapsort.md)
+A tree where:
 
+1. every elements should be greater than ites children
+2. the structure should be filled from top to bottom and left to right
+
+
+To remove an element
+
+- remove from the top, replace with the last element
+- to fix the first condition swap the top element with the highest of its children until fixed
+
+
+To Add an element
+
+- add to the next position
+- If its larger than its parent then swap them
+
+
+How deep is the tree?
+
+- each layer is twice as deep and the preceding one
+- layer k can hold $2^k$ elements
+- to store n elements we use k layers where $k = lg n$
+- so we need ϴ(lg n) layers
+- So any algorithm that 'walk along a branch' in while or in part will have Ο(n) complexity (assuming constant time work at each node)
 
 # 1 Overview
 [[heap (data structure)]]
@@ -65,7 +85,7 @@ So both loops do most Ο(lg n)
 ## 2.4 Storage
 ![](https://i.imgur.com/04qVrGQ.png#invert)
 
-- Array
+ - Array
 - root at position 0 and children at 1 and 2
 - children of 1 to in 3 and 4, children of 2 go in 5 and 6
 
@@ -78,24 +98,3 @@ So both loops do most Ο(lg n)
 ## 2.5 Implementation
 
 Use java.util.PriorityQueue
-
-# 3 Heap Sort
-In place and ϴ(n lg n)
-
-- start with array
-- using itself as a heap, add the elements one at a time until all been added
-- Then remove them one at a time - the largest elements gets removed first and the place where is needs to be put gets freed from the map
-
-# 4 Heap vs Merge
-heap --> in place, ϴ(n lg n)
-merge --> not in place, Ο(n lg n)
-
-Merge is preferred because
-
-- MS can take advantage of partially sorted data (hence ϴ() vs Ο())
-- MS memory accesses are good fast
-- overwrites allow for optimizations that swaps do not
-
-extra memory cost of merge sort is negligible
-
-∴ Merge sort is faster

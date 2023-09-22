@@ -8,5 +8,5 @@ completed: null
 type: recurring
 daysOfWeek: [M]
 startRecur: 2023-07-31
-endRecur: 2023-11-01
+endRecur: 2023-10-13
 ---

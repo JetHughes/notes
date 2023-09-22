@@ -6,6 +6,6 @@ endTime: 09:50
 type: recurring
 daysOfWeek: [M,W]
 startRecur: 2023-07-31
-endRecur: 2023-11-30
+endRecur: 2023-10-13
 backgroundColor: '#ffffff'
 ---
